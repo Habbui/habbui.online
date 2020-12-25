@@ -3,4 +3,4 @@
 # Espace public réservé au futur du rétro-serveur Habbui.online
 
 Accès aux discussions : <a href="https://github.com/Habbui/habbui.online/discussions">ici</a> <br />
-Accès aux projets : <a href="https://github.com/Habbui/habbui.online/projects">ici</a>
+Accès aux projets : <a href="https://github.com/orgs/Habbui/projects">ici</a>
